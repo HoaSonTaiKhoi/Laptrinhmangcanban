@@ -1,0 +1,12 @@
+D:\Code\Laptrinhmangcanban\BaiTapVeNha\BTVN1_Chat\bin\Debug\BTVN1_Chat.exe.config
+D:\Code\Laptrinhmangcanban\BaiTapVeNha\BTVN1_Chat\bin\Debug\BTVN1_Chat.exe
+D:\Code\Laptrinhmangcanban\BaiTapVeNha\BTVN1_Chat\bin\Debug\BTVN1_Chat.pdb
+D:\Code\Laptrinhmangcanban\BaiTapVeNha\BTVN1_Chat\obj\Debug\BTVN1_Chat.csproj.AssemblyReference.cache
+D:\Code\Laptrinhmangcanban\BaiTapVeNha\BTVN1_Chat\obj\Debug\BTVN1_Chat.csproj.SuggestedBindingRedirects.cache
+D:\Code\Laptrinhmangcanban\BaiTapVeNha\BTVN1_Chat\obj\Debug\BTVN1_Chat.Client.resources
+D:\Code\Laptrinhmangcanban\BaiTapVeNha\BTVN1_Chat\obj\Debug\BTVN1_Chat.Properties.Resources.resources
+D:\Code\Laptrinhmangcanban\BaiTapVeNha\BTVN1_Chat\obj\Debug\BTVN1_Chat.csproj.GenerateResource.cache
+D:\Code\Laptrinhmangcanban\BaiTapVeNha\BTVN1_Chat\obj\Debug\BTVN1_Chat.csproj.CoreCompileInputs.cache
+D:\Code\Laptrinhmangcanban\BaiTapVeNha\BTVN1_Chat\obj\Debug\BTVN1_Chat.exe
+D:\Code\Laptrinhmangcanban\BaiTapVeNha\BTVN1_Chat\obj\Debug\BTVN1_Chat.pdb
+D:\Code\Laptrinhmangcanban\BaiTapVeNha\BTVN1_Chat\obj\Debug\BTVN1_Chat.Server.resources
